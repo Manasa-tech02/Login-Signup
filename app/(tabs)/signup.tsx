@@ -113,7 +113,7 @@ const SignupScreen = () => {
 
 export default SignupScreen;
 
-// --- STYLES ---
+
 const styles = StyleSheet.create({
     container: {
         flex: 1,
